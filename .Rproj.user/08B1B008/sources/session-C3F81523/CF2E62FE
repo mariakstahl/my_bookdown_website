@@ -3,7 +3,7 @@
     "path": "~/RDS S23/my_bookdown_website/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "1162557684",
+    "hash": "3049096314",
     "contents": "",
     "dirty": false,
     "created": 1678736326715.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,91",
-        "scrollLine": "0"
+        "cursorPosition": "17,56",
+        "scrollLine": "8"
     },
     "folds": "",
-    "lastKnownWriteTime": 1678738447,
+    "lastKnownWriteTime": 1678738798,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1678738447617,
+    "last_content_update": 1678738798717,
     "read_only": false,
     "read_only_alternatives": []
 }
